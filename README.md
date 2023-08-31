@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **jainaman0744@gmail.com**
 
-- ⚡ Fun fact **The most popular programming language is JavaScript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
